@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ramazanima
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @ramazanima, my previous GitHub was alir2022. 
+- 👀 I’m interested in ... software development
 - 🌱 I’m currently learning Data Structures & Algorithms 
-- 💞️ I’m looking to collaborate on networking projects.
-- 📫 How to reach me ... by email.
+- 💞️ I’m looking to collaborate on new impactful projects.
+- 📫 How to reach me ... by LinkedIn https://www.linkedin.com/in/ramazanima/
 
 <!---
 ramazanima/ramazanima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
