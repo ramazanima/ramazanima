@@ -2,11 +2,10 @@
 
 Currently pursuing a bachelor's degree in Computer Scinece and Mathematics at Berea College, I am a highly motivated and passionate student looking to transition into the field of software engineering. I consider myself as a stubborn problem solver and a creative algorithms developer. In addition to my hard skills, I have developed my soft skills such as leadership and communication through participating and assuming various leadership roles on my college campus. I'm currently the head of Activities Club for the Computer Science department where I organize and execute both department-wide and campus-wide events related to computer science. I am constantly seeking to improve my skills and knowledge in my field, and I am a quick learner and a team player. I am confident that my unique blend of skills and experience will make me an asset to any development team. 
 
-<!-- ### ✍🏻 I am writing about JavaScript to improve my knowledge but also to help beginner fellow developers understand programming from another angle. Follow the Medium link to read the articles! 
+### ✍🏻 I am writing about JavaScript to improve my knowledge but also to help beginner fellow developers understand programming from another angle. Follow the Medium link to read the articles! 
 
 <a  align="center" href=""><img  align="center" width="35" height="35" src="https://img.icons8.com/glyph-neue/64/FFFFFF/medium-logo.png" alt="medium-logo"/> Medium</a>
 
-!-->
 
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJhcTNreXV2NG1qamt5Z2Z5M203dnE5YmM0MHA4ZDN3Mzdsd3hpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/mGasM06BJXWs7KLubN/giphy.gif" width="400" height="320" />
