@@ -1,4 +1,4 @@
-<img src="" width="100%" height="100%"/>
+<img src="https://github.com/ramazanima/ramazanima/blob/main/assets/cover%20github.jpeg" width="100%" height="100%"/>
 
 Currently pursuing a bachelor's degree in Computer Scinece and Mathematics at Berea College, I am a highly motivated and passionate student looking to transition into the field of software engineering. I consider myself as a stubborn problem solver and a creative algorithms developer. In addition to my hard skills, I have developed my soft skills such as leadership and communication through participating and assuming various leadership roles on my college campus. I'm currently the head of Activities Club for the Computer Science department where I organize and execute both department-wide and campus-wide events related to computer science. I am constantly seeking to improve my skills and knowledge in my field, and I am a quick learner and a team player. I am confident that my unique blend of skills and experience will make me an asset to any development team. 
 
